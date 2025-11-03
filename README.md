@@ -78,3 +78,4 @@ This project is licensed under the MIT License. For more details, see the [LICEN
 
 For further information and updates, visit our official website or engage with us through GitHub Discussions. Thank you for your interest in the **Aviator Predictor**! Happy betting!
 
+
